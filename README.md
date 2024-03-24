@@ -1,16 +1,47 @@
-### Hi there 👋
 
-<!--
-**ZenSam7/ZenSam7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZenSam7&theme=dark&background=030303)](vision-friendly-dark)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/ZenSam7?theme=dark&font=Rubik)
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Tools and Languages</h1>
+
+<table align="center">
+  <tr>
+    <td>
+      <div align="center">
+        <h3>Main:</h3>
+        <img src="https://cdn-icons-png.flaticon.com/64/5968/5968350.png" height="64"> 
+        <img src="https://cdn-icons-png.flaticon.com/64/5968/5968342.png" height="64"> 
+        <img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/0e/0e40f819f7760db7100b872db2e937b200deac6c_medium.jpg" height="64">
+        <img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https:%2F%2Fnoticon-static.tammolo.com%2Fdgggcrkxq%2Fimage%2Fupload%2Fv1568175385%2Fnoticon%2Fiodu1jssf0kwe4oie2dt.png&blockId=c9ffa4b5-c25a-40eb-9ce3-93af59fb1201" height="64"> 
+        <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/21/21a30461549a437411ed6b6f6530055d748b05da_medium.jpg" height="64"> 
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <h3>Secondary:</h3>
+        <img src="https://cdn-icons-png.flaticon.com/64/6132/6132222.png" height="64"> 
+        <img src="https://logosdownload.com/logo/arduino-logo-big.png" height="64"> 
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+<div align="center">
+
+  <!-- font=Gabriola -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&size=30&height=70&center=true&random=true&lines=Python+%26+Go+one+❤️+love;❤️+МурМурМур+❤️;$+sudo+run+love+❤️)](https://git.io/typing-svg)  
+</div> 
+
+
+Могу часами затирать про превосходство Линукса и GoLang.
+  
+Учитель по Искусственному Интеллекту (серьёзно, я его регуярно провожу для своего класса), да и вообще программист с 5ого класса 
+
+＋ призёр региональных олимпиад ВсОШ по физике и робототехнике ＋ в свободное время рисую
+
+<span style="display: inline-block;"><a href="https://t.me/ZenSam7" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" height="40" /></a></span>
