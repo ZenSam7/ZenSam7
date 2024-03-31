@@ -34,14 +34,14 @@
 <div align="center">
 
   <!-- font=Gabriola -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&size=30&height=70&center=true&random=true&lines=Python+%26+Go+one+❤️+love;❤️+МурМурМур+❤️;$+sudo+run+love+❤️)](https://git.io/typing-svg)  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&size=30&height=70&center=true&random=true&lines=Python+%26+Go+one+❤️+love;❤️+МурМурМур+❤️)](https://git.io/typing-svg)  
 </div> 
 
+Немного обо мне:
+Программирую с 5ого класса, учитель по Искусственному Интеллекту (буквально, с уже год преподаю своему классу этот предмет), 
 
-Могу часами затирать про превосходство Линукса и GoLang.
-  
-Учитель по Искусственному Интеллекту (серьёзно, я его регуярно провожу для своего класса), да и вообще программист с 5ого класса 
+В свободное время много рисую, доучиваю английский и всячески развиваюсь
 
-＋ призёр региональных олимпиад ВсОШ по физике и робототехнике ＋ в свободное время рисую
+＋ призёр региональных олимпиад ВсОШ по физике и робототехнике 
 
 <span style="display: inline-block;"><a href="https://t.me/ZenSam7" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" height="40" /></a></span>
