@@ -6,6 +6,13 @@
 </div>
 
 
+<div align="center">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZenSam7&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZenSam7&theme=solarized_dark)
+</div>
+
+
 <h1 align="center">Tools and Languages</h1>
 
 <table align="center">
@@ -29,7 +36,6 @@
     </td>
   </tr>
 </table>
-
 
 <div align="center">
 
