@@ -37,7 +37,7 @@
 <div align="center">
 
   <!-- font=Gabriola -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&size=30&height=70&center=true&random=true&lines=Python+%26+Go+one+❤️+love;❤️+МурМурМур+❤️)](https://git.io/typing-svg)  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&size=30&height=70&center=true&random=true&lines=Python+%26+Go+one+love+❤️;❤️+МурМурМур+❤️;:333333;(づ｡◕‿‿◕｡)づ)](https://git.io/typing-svg)  
 </div> 
 
 Немного обо мне:
