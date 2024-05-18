@@ -37,11 +37,11 @@
 <div align="center">
 
   <!-- font=Gabriola -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&size=30&height=70&center=true&random=true&lines=Python+%26+Go+one+love+❤️;❤️+МурМурМур+❤️;:333333;(づ｡◕‿‿◕｡)づ)](https://git.io/typing-svg)  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&size=30&duration=4000&pause=1000&color=30A4ECEE&center=true&vCenter=true&random=true&width=435&lines=Python+%26+Go+one+love+❤️;❤️+МурМурМур+❤️;:333333;(づ｡◕‿‿◕｡)づ)](https://git.io/typing-svg)
 </div> 
 
 Немного обо мне:
-Программист с 5ого класса, учитель по Искусственному Интеллекту (буквально, уже год преподаю своему классу), олимпиадник и мечусь на золотую медаль
+Программист с 5ого класса, учитель по Искусственному Интеллекту (буквально, уже год преподаю своему классу), олимпиадник
 
 В свободное время рисую, учу английский и кулинарничаю
 
