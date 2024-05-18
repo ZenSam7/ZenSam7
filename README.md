@@ -1,15 +1,12 @@
 
 <div align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZenSam7&theme=dark&background=030303)](vision-friendly-dark)
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/ZenSam7?theme=dark&font=Rubik)
-</div>
-
-
-<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZenSam7&theme=nord)](vision-friendly-dark)
+  <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/ZenSam7?theme=nord&font=Rubik) -->
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZenSam7&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZenSam7&theme=solarized_dark)
+  <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZenSam7&theme=blueberry) -->
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZenSam7&theme=blueberry)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZenSam7&theme=blueberry)
 </div>
 
 
