@@ -1,12 +1,14 @@
 
 <div align="center">
+
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZenSam7&theme=nord)](vision-friendly-dark)
-  <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/ZenSam7?theme=nord&font=Rubik) -->
+  ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZenSam7&theme=blueberry)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/ZenSam7?theme=nord&font=Rubik)  
   
-  <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZenSam7&theme=blueberry) -->
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZenSam7&theme=blueberry)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZenSam7&theme=blueberry)
+  
+  <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenSam7&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  -->
+  <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZenSam7&theme=blueberry) -->
 </div>
 
 
@@ -41,7 +43,7 @@
 </div> 
 
 Немного обо мне:
-Программист с 5ого класса, учитель по Искусственному Интеллекту (буквально, уже год преподаю своему классу), олимпиадник
+Программист с 5ого класса, учитель по Искусственному Интеллекту (буквально, уже год преподаю своему классу), душечка-лапочка
 
 В свободное время рисую, учу английский и кулинарничаю
 
