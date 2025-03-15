@@ -41,7 +41,7 @@
         </a>
         <a href="https://github.com/gin-gonic/gin" target="_blank">
           <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="64">
-        </a>
+        </a>`
       </div>
     </td>
   </tr>
@@ -50,7 +50,7 @@
 <div align="center">
 
   <!-- font=Gabriola -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&size=30&duration=4000&pause=1000&color=30A4ECEE&center=true&vCenter=true&random=true&width=435&lines=Python+%26+Go+one+love+❤️;❤️+МурМурМур+❤️;:333333;(づ｡◕‿‿◕｡)づ)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&size=30&duration=4000&pause=1000&color=30A4ECEE&center=true&vCenter=true&random=true&width=435&lines=Python+%26+Go+one+love+❤️;❤️+МурМурМур+❤️;:333333)](https://git.io/typing-svg)
 </div> 
 
 Немного обо мне:
