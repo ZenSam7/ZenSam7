@@ -31,6 +31,9 @@
         <a href="https://ru.wikipedia.org/wiki/Git" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="64"> 
         </a>
+        <a href="https://github.com/torvalds/linux" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="64"> 
+        </a>
       </div>
     </td>
     <td>
@@ -41,7 +44,13 @@
         </a>
         <a href="https://github.com/gin-gonic/gin" target="_blank">
           <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="64">
-        </a>`
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+          <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" height="64">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/The_C_Programming_Language" target="_blank">
+          <img src="https://camo.githubusercontent.com/e3a44d7bf7ce074f5efd452fd541f80aa31a4bc01dcf9b73a0f85c7c48462f50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f632f632d6f726967696e616c2e737667" height="64">
+        </a>
       </div>
     </td>
   </tr>
@@ -54,8 +63,8 @@
 </div> 
 
 Немного обо мне:
-Студент ВШЭ, программист с 5ого класса, учитель по Искусственному Интеллекту (буквально, год преподавал своему классу), уверенно делаю вид что я нормальный человек
+Студент ВШЭ, программист с 5ого класса, учитель по Искусственному Интеллекту (буквально, год преподавал своему классу), уверенно делает вид что нормальный человек
 
-В свободное время рисую, учу японский, кулинарничаю и читаю шизоидов
+В свободное время рисует, учит японский, кулинарничает и читает шизоидов
 
 <span style="display: inline-block;"><a href="https://t.me/ZenSam7" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" height="40" /></a></span>
