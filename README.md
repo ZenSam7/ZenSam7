@@ -1,11 +1,10 @@
 <div align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZenSam7&theme=nord)](vision-friendly-dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZenSam7&theme=blueberry)
-   <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/ZenSam7?theme=nord&font=Rubik) -->
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZenSam7&theme=blueberry)
+  ![](http://github-readme-streak-stats.herokuapp.com?user=ZenSam7&theme=nord)
   
+  <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/ZenSam7?theme=nord&font=Rubik) -->
   <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenSam7&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  -->
-  <!-- ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZenSam7&theme=blueberry) -->
 </div>
 
 <table align="center">
@@ -49,7 +48,7 @@
           <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" height="64">
         </a>
         <a href="https://en.wikipedia.org/wiki/The_C_Programming_Language" target="_blank">
-          <img src="https://camo.githubusercontent.com/e3a44d7bf7ce074f5efd452fd541f80aa31a4bc01dcf9b73a0f85c7c48462f50/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f632f632d6f726967696e616c2e737667" height="64">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png" height="64">
         </a>
       </div>
     </td>
@@ -59,12 +58,14 @@
 <div align="center">
 
   <!-- font=Gabriola -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&size=30&duration=4000&pause=1000&color=30A4ECEE&center=true&vCenter=true&random=true&width=435&lines=Python+%26+Go+one+love+❤️;❤️+МурМурМур+❤️;:333333)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&size=30&duration=4000&pause=1000&color=30A4ECEE&center=true&vCenter=true&random=true&width=435&lines=Assm+%26+Go+one+love+❤️;❤️+Мур+❤️;:333333)](https://git.io/typing-svg)
 </div> 
 
+<!--  кому надо тот прочтёт
 Немного обо мне:
 Студент ВШЭ, программист с 5ого класса, учитель по Искусственному Интеллекту (буквально, год преподавал своему классу), уверенно делает вид что нормальный человек
 
 В свободное время рисует, учит японский, кулинарничает и читает шизоидов
+-->
 
-<span style="display: inline-block;"><a href="https://t.me/ZenSam7" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" height="40" /></a></span>
+<span style="display: inline-block;"><a href="https://t.me/ZenSam7" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" height="40" /></a></span>
