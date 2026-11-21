@@ -1,5 +1,4 @@
-<div align="center">
-  
+
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZenSam7&theme=blueberry)
   ![](http://github-readme-streak-stats.herokuapp.com?user=ZenSam7&theme=nord)
   
@@ -21,17 +20,14 @@
         <a href="https://ru.wikipedia.org/wiki/Go" target="_blank">
           <img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/0e/0e40f819f7760db7100b872db2e937b200deac6c_medium.jpg" height="64">
         </a>
+        <a href="https://en.wikipedia.org/wiki/C++" target="_blank">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9_d1f5ZU5DkSW3llPxGOld4juE2Vzw2yWowR1cxll3J7kyxq4O_RGBBu&s=10" height="64"> 
+        </a>
         <a href="https://ru.wikipedia.org/wiki/Docker" target="_blank">
           <img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https:%2F%2Fnoticon-static.tammolo.com%2Fdgggcrkxq%2Fimage%2Fupload%2Fv1568175385%2Fnoticon%2Fiodu1jssf0kwe4oie2dt.png&blockId=c9ffa4b5-c25a-40eb-9ce3-93af59fb1201" height="64"> 
         </a>
         <a href="https://ru.wikipedia.org/wiki/TensorFlow" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tensorflow/tensorflow-original.svg" height="64"> 
-        </a>
-        <a href="https://ru.wikipedia.org/wiki/Git" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="64"> 
-        </a>
-        <a href="https://github.com/torvalds/linux" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="64"> 
         </a>
       </div>
     </td>
@@ -47,9 +43,6 @@
         <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
           <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" height="64">
         </a>
-        <a href="https://en.wikipedia.org/wiki/The_C_Programming_Language" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png" height="64">
-        </a>
       </div>
     </td>
   </tr>
@@ -61,11 +54,9 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria+Math&size=30&duration=4000&pause=1000&color=30A4ECEE&center=true&vCenter=true&random=true&width=435&lines=Assm+%26+Go+one+love+❤️;❤️+Мур+❤️;:333333)](https://git.io/typing-svg)
 </div> 
 
-<!--  кому надо тот прочтёт
-Немного обо мне:
-Студент ВШЭ, программист с 5ого класса, учитель по Искусственному Интеллекту (буквально, год преподавал своему классу), уверенно делает вид что нормальный человек
+Немного обо "мне":
+Студент ВШЭ (математик), программист с 5ого класса, учитель по Искусственному Интеллекту (буквально, год преподавал своему классу)
 
-В свободное время рисует, учит японский, кулинарничает и читает шизоидов
--->
+В свободное время рисует, учит японский и читает шизоидов
 
 <span style="display: inline-block;"><a href="https://t.me/ZenSam7" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" height="40" /></a></span>
